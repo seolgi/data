@@ -4,7 +4,7 @@ persona II
 partner persona
 dialogue
 dialogue
-persona
+********persona**********
 i like to remodel homes.
 i like to go hunting.
 i like to shoot a bow.
