@@ -1,10 +1,4 @@
-************************
 persona
-***********persona II***********
-partner persona
-dialogue
-dialogue
-********persona**********
 i like to remodel homes.
 i like to go hunting.
 i like to shoot a bow.
@@ -14498,3 +14492,24 @@ i make pottery.
 i like to refurbish classic cars.
 persona II
 i was drafted last years by the minnesota wolves.
+i went to the university of north carolina.
+i am an athlete.
+i play basketball.
+i get paid over 5 million a year to dribble a ball.
+dialogue
+hey . hows it going ?
+its going great here , how about with you ?
+its going fantastic . i love my job and i love my life .
+that's wonderful to hear ! what is your new job ?
+i play for basketball for the minnesota wolves .
+very interesting job . you must be quite tall .
+as tall as any other basketball player . what about yourself ?
+well i just opened a new pottery shop that has taken off , especially doing bridal showers
+that's pretty cool .
+well thank you . how do you like the minnesotan winters ?
+i cannot complain . where are you from ?
+i'm originally from south dakota and now live in michigan
+why did you move ?
+job opportunities are more prevalent here .
+that makes complete sense . gotta go where the jobs are .
+for sure . do you have any interesting hobbies ?
